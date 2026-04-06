@@ -1,7 +1,7 @@
 # Ultiboard DDF to KiCad Converter (KIUB)
 
 ><ins>**Legal Notice**</ins>\
-KIUB is a functional acronym for <ins>**Ki**</ins>Cad <ins>**U**</ins>lti<ins>**B**</ins>oard Converter.\
+**KIUB** is a functional acronym for <ins>**Ki**</ins>Cad <ins>**U**</ins>lti<ins>**B**</ins>oard Converter.\
 This is an independent, open-source project and is not affiliated with, sponsored by, or endorsed by any companies sharing a similar name.\
 Ultiboard is a registered trademark of National Instruments (formerly Ultimate Technology / Electronics Workbench).\
 KiCad is a free software suite for electronic design automation.\
