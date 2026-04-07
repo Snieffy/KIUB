@@ -38,6 +38,7 @@ Mathematical errors found in abandoned legacy scripts (e.g., arc midpoint calcul
 *   **Unicode Text Support:** Accurately converts Ultiboard internal fonts to KiCad-compatible text strings.
 *   **Zero Dependencies:** A lightweight implementation using standard Python libraries.
 *   **Layer Intelligence:** Automatic mapping of Ultiboard stackups to KiCad's signal and technical layers.
+*   **Optional GUI:** Easy file, folder and font selection.
 
 ---
 
@@ -55,6 +56,15 @@ KIUB.py [-h] [-v] [-f "font"] "source" [-o "destination"]
 
 > [!NOTE]
 > When no file extension is specified, the code will add .DDF to the source file and/or .kicad_pcb to the destination file.
+
+> [!TIP]
+> The optional GUI allows you to easily convert DDF files.\
+> Make sure both files, KIUB.py and KIUB_gui.py, are in the same directory.\
+> **Features:**
+> - Easy file selection with automatic extension name creation.
+> - Different path for the output file.
+> - Font selection.
+> - Conversion log (verbose and non-verbose), displayed on-screen and also written to _log.txt file in the output directory.
 
 ### Examples
 
