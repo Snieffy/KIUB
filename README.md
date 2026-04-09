@@ -1,10 +1,10 @@
 # Ultiboard DDF to KiCad Converter (KIUB)
 
 ><ins>**Legal Notice**</ins>\
-**KIUB** is a functional acronym for <ins>**Ki**</ins>Cad <ins>**U**</ins>lti<ins>**B**</ins>oard Converter.\
+[KIUB](https://github.com/Snieffy/ultiboard-ddf-to-kicad-converter) is a functional acronym for <ins>**Ki**</ins>Cad <ins>**U**</ins>lti<ins>**B**</ins>oard Converter.\
 This is an independent, open-source project and is not affiliated with, sponsored by, or endorsed by any companies sharing a similar name.\
-Ultiboard is a registered trademark of National Instruments (formerly Ultimate Technology / Electronics Workbench).\
-KiCad is a free software suite for electronic design automation.\
+[Ultiboard](https://www.ni.com/nl-be/shop/product/ultiboard.html) is a registered trademark of National Instruments (formerly Ultimate Technology / Electronics Workbench).\
+[KiCad](https://www.kicad.org/) is a free software suite for electronic design automation.\
 This tool is provided "as-is" for file migration purposes only.
 
 This is a high-fidelity converter designed to migrate legacy **Ultiboard DDF** (`.ddf`) files into modern **KiCad PCB** (`.kicad_pcb`) projects. 
