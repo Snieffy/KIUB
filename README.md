@@ -1,5 +1,5 @@
 # Ultiboard DDF to KiCad Converter (KIUB)
-
+**Python:** 3.13+ | **License:** GPLv3 | **Target:** KiCad v6, v7, v8, v9+
 ><ins>**Legal Notice**</ins>\
 [KIUB](https://github.com/Snieffy/ultiboard-ddf-to-kicad-converter) is a functional acronym for <ins>**Ki**</ins>Cad <ins>**U**</ins>lti<ins>**B**</ins>oard Converter.\
 This is an independent, open-source project and is not affiliated with, sponsored by, or endorsed by any companies sharing a similar name.\
