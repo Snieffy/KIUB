@@ -32,7 +32,7 @@ Mathematical errors found in abandoned legacy scripts (e.g., arc midpoint calcul
 
 ## Key Features
 
-*   **Modern KiCad Support:** Generates native S-expression based `.kicad_pcb` files and Json based `.kicad_pro` files.
+*   **Modern KiCad Support:** Generates native S-expression based `.kicad_pcb` and Json based `.kicad_pro` files.
 *   **DDF Support:** Handles both V4.x (database units) and V5.x (nanometer) files.
 *   **Advanced Geometry:** Precision handling of tracks, vias, pads (SMD & THT), and complex copper zones.
 *   **Unicode Text Support:** Accurately converts Ultiboard internal fonts to KiCad-compatible text strings.
