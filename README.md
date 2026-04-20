@@ -114,6 +114,8 @@ Work in progress:
 Erratum Ultiboard Reference Manual 
 ----------------------------------
 - *TD Drill code value is NOT the radius but the diameter.
+- *C Component definition:
+     name and alias height, width definition is actually width, height.
 
 Erratum DDF file structure 
 --------------------------
